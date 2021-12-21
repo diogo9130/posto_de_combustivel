@@ -1,1 +1,7 @@
 # Início do projeto do posto de combustível
+
+l_gasol = float(2.5)
+l_alc = float(1.9)
+
+tipo_comb = input(('Escolha o tipo de combutível desejado:\n\n(A) - Alcool\n(G) - Gasolina\n\n'))
+quant_litros = float(input('\n\nInsira a quantidade de litros desejada:'))
